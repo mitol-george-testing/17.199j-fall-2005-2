@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0b8ff7aa-0119-ff11-0cfd-89c87a18037e",
+      "1d6e1725-27ea-224e-988e-8add2f1814bf"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Working in a Global Economy",
+  "course_description": "The course introduces the main debates about the \"new\" global economy and their implications for practice and policy. Experts from academia and business will share their findings about, and direct experiences with, different aspects of globalization.\n",
+  "department_numbers": [
+    "17",
+    "21G"
+  ],
+  "extra_course_numbers": "21G.098J",
+  "primary_course_number": "17.199J",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
